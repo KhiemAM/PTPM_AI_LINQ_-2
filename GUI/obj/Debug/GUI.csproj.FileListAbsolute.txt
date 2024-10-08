@@ -1,0 +1,16 @@
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\GUI.exe.config
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\GUI.exe
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\GUI.pdb
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.exe
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.pdb
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.FormMonHoc.resources
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\BLL.dll
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\DTO.dll
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\DAL.dll
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\BLL.pdb
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\DTO.pdb
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\bin\Debug\DAL.pdb
+D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\GUI\obj\Debug\GUI.FormQLDiemSV.resources
