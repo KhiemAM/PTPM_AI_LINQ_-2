@@ -7,3 +7,15 @@ D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\BLL\bin\Debug\DTO.pdb
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\BLL\obj\Debug\BLL.dll
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\BLL\obj\Debug\BLL.pdb
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\BLL.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\BLL.pdb
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\DAL.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\DTO.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\DAL.pdb
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\DTO.pdb
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\bin\Debug\DTO.dll.config
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\obj\Debug\BLL.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\BLL\obj\Debug\BLL.pdb

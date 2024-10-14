@@ -16,9 +16,9 @@ namespace DAL
         }
 
 
-        public IQueryable listMonHoc()
+        public List<MonHoc> listMonHoc()
         {
-            return qlsv.MonHocs.Select(mh => mh);
+            return qlsv.MonHocs.Select(mh => mh).ToList<MonHoc>();
         }
 
         public bool addMonHoc(MonHoc mh)

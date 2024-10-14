@@ -17,7 +17,7 @@ namespace BLL
         }
 
 
-        public IQueryable listMonHoc()
+        public List<MonHoc> listMonHoc()
         {
             return monHocDAL.listMonHoc();
         }

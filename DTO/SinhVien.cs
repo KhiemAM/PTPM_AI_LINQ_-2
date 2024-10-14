@@ -8,12 +8,8 @@ namespace DTO
 {
     public partial class SinhVien
     {
-        string _TenLop;
+        private string _TenLop;
 
-        public string TenLop
-        {
-            get { return _TenLop; }
-            set { _TenLop = value; }
-        }
+        public string TenLop { get => _TenLop; set => _TenLop = value; }
     }
 }

@@ -14,7 +14,7 @@ namespace DAL
 
         public IQueryable listSinhVienByMaLop(string pMaLop)
         {
-            return qlsv.SinhViens.Where(sv => sv.MaLop == pMaLop).Join(qlsv.Lops, sv => sv.TenLop, l => l.TenLop, (sv, l) => new { sv.MaSinhVien, sv.HoTen, sv.NgaySinh, l.TenLop });
+            return qlsv.SinhViens.Where(sv => sv.MaLop == pMaLop).Join(qlsv.Lops, sv => sv.MaLop, l => l.MaLop, (sv, l) => new { sv.MaSinhVien, sv.HoTen, sv.NgaySinh, l.TenLop });
         }
 
     }

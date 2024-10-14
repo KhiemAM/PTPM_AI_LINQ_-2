@@ -3,3 +3,10 @@ D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\DTO\bin\Debug\DTO.pdb
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\DTO\obj\Debug\DTO.dll
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\DTO\obj\Debug\DTO.pdb
 D:\1LuuDuLieuSV\HuynhQuangKhiem\Buoi_07_LinQ\DTO\bin\Debug\DTO.dll.config
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\bin\Debug\DTO.dll.config
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\bin\Debug\DTO.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\bin\Debug\DTO.pdb
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\obj\Debug\DTO.dll
+E:\Nam_4\HK1\PTPM_AI\PTPM_AI_LINQ_-2\DTO\obj\Debug\DTO.pdb
